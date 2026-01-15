@@ -1,6 +1,6 @@
 [submodule "backend"]
-  path = backend
-  url = https://github.com/AlexandruPrimac/KeepDishesGoing-Backend.git
+	path = backend
+	url = https://github.com/AlexandruPrimac/KeepDishesGoing-Backend.git
 [submodule "frontend"]
-  path = frontend
-  url = https://github.com/AlexandruPrimac/KeepDishesGoing-Frontend.git
+	path = frontend
+	url = https://github.com/AlexandruPrimac/KeepDishesGoing-Frontend.git
